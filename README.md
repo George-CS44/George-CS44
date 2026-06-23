@@ -1,4 +1,6 @@
-## Hi there 👋
+## I am currently reading about biochemistry related projects and aiming to study this at university. 
+My projects that i have done elsewhere are: Comparison of docking natural inhibitor Curcumin against synthetic Nirmatrelvir on a Protease enzyme analyzing the difference that the enthaply of the hydrogen bonds had on the spatial geometry of the active site and studied the resultant chemiucal inhibition, also using Benchling i engineered a 20 nucleotide RNA using CRISPRto target HBB gene that is the cause for sickle cell disease in humans changing its thermodynamics to 49.00% GC content and melting point of 53.3°C targeting cleavage efficiency and minimizing risk to human genome makeup. 
+My current project displayed here is a coding simulation of a modified PETase enzyme, i am aiming to target the drawbacks of this "Plastic Eating Enzyme" by making it optimal and efficient at around the mean envirometal consitions of oceans and sea water to allow for it to carry out its function and aim to reduce plastic pollutions and preserve enviromental health and habitats. 
 
 <!--
 **George-CS44/George-CS44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
